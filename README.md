@@ -1,12 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Milan Dang's Portfolio
 
-You can use the [editor on GitHub](https://github.com/juniq03/dang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Milan Dang is a third-year student at Faculty of Law of Charles University. In addition to studying law and jurisprudence he enjoys Python programming, computational semantics analysis and big data, which he seeks to apply in his projects and would like to further develop as a business or research activity. He created his personal blog, Dang.github.io, to publish small data projects online._ [My Resume](https://www.linkedin.com/in/milandang/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### 2008 - 2009 Academic Salary comparison in U.S.
+The Salaries dataset from the [Companion to Applied Regression package](https://cran.r-project.org/web/packages/car/index.html) (car) is a 2008-09 nine-month academic salary for Assistant Professors, Associate Professors and Professors in a college through out the US.
+
+[Jupyter notebook](https://github.com/juniq03/final-bio-project/blob/master/python-bio_projekt%20(1).ipynb)
+
+[Graphs & Conclusion](https://moje-aplikoska2.herokuapp.com/)
+```markdown
+**The answer to our question as to who earns more salary in colleges between 2008-09 is answered from the graph. 
+Men, on the average, earn more than women on every category.**
+```
+### Attitudes towards vaccination research
+
 
 ```markdown
 Syntax highlighted code block
