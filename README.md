@@ -13,10 +13,10 @@ The Salaries dataset from the [Companion to Applied Regression package](https://
 [Jupyter notebook](https://github.com/juniq03/final-bio-project/blob/master/python-bio_projekt%20(1).ipynb)
 
 [Graphs & Conclusion](https://moje-aplikoska2.herokuapp.com/)
-```markdown
-**The answer to our question as to who earns more salary in colleges between 2008-09 is answered from the graph. 
-Men, on the average, earn more than women on every category.**
-```
+
+The answer to our question as to who earns more salary in colleges between 2008-09 is answered from the graph. 
+Men, on the average, earn more than women on every category.
+
 
 
 
