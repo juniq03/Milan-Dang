@@ -1,3 +1,4 @@
+# BLOG IS UNDER CONSTRUCTION
 # Welcome to Milan Dang's Portfolio
 
 
@@ -16,33 +17,17 @@ The Salaries dataset from the [Companion to Applied Regression package](https://
 **The answer to our question as to who earns more salary in colleges between 2008-09 is answered from the graph. 
 Men, on the average, earn more than women on every category.**
 ```
+
+
+
 ### Attitudes towards vaccination research
+The research resolves around the [Facebook post](https://www.facebook.com/zuck/posts/10102586760792431) of Mark Zuckerberg, which shows a picture of his daughter guided by the text that it is time for her vaccines. The conducted research first gives an overview of the mostly used arguments pro and contra. Second it is focussed on the sentiments individuals express on the relation between vaccination and autism. With the answers on these topics an overview can be given about the debate on autism. More specifically the relations between sentiments about vaccinations regarding autism and personal experience are explored. This gives more insight in the reasons why people would decline vaccinations, and with this possibly how to delegitimize their arguments so they do get vaccinated. 
+
+[Jupyter notebook; web scraping](https://github.com/juniq03/Data-mining/blob/master/Selenium_method.ipynb)
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Semantic analysis of Sreality.cz data
+Part of the winning team of 2018 Seznam.cz & Pyladies hackhaton
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juniq03/dang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[blog](https://medium.com/@misasebestova/m%C5%AFj-prvn%C3%AD-datov%C3%BD-hackathon-6f753a4730cf)
