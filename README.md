@@ -2,7 +2,7 @@
 # Welcome to Milan Dang's Portfolio
 
 
-_Milan Dang is a third-year student at Faculty of Law of Charles University. In addition to studying law and jurisprudence he enjoys Python programming, computational semantics analysis and big data, which he seeks to apply in his projects and would like to further develop as a business or research activity. He created his personal blog, Dang.github.io, to publish small data projects online._ [My Resume](https://www.linkedin.com/in/milandang/)
+_Milan Dang is a fourth-year student at Faculty of Law of Charles University. In addition to studying law and jurisprudence he enjoys Python programming, computational semantics analysis and big data, which he seeks to apply in his projects and would like to further develop as a business or research activity. He created his personal blog, Dang.github.io, to publish small data projects online._ [My Resume](https://www.linkedin.com/in/milandang/)
 
 
 
